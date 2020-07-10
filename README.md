@@ -34,6 +34,8 @@
 <br/>
 
 <p align="center">
+    <b> Add in your project through Swift Package Manager </b>	
+	
    Use <b>AnimatedField</b> as an iOS UITextField/UITextView component. You can check fields with your custom regular expressions or use default ones ordered by types (email, username, password, url, price...). Also can check the field while user is typing in a dynamic way. Limit the text lenght and format fields in your way. Replace your old and bored textfields and textviews with these fancy animated fields. You only need to follow some simple steps to implement it. AnimatedField is customizable and easy to use.
 </p>
 
